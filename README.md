@@ -1,5 +1,5 @@
 # Library-of-Babel
-Explore the library containing all information in the universe!
+Explore the library containing all information in the universe! Inspired by Jorge Borges' thought experiment, ["The Library of Babel"](https://en.wikipedia.org/wiki/The_Library_of_Babel).
 
 ![](imgs/hexagon.gif)
 
